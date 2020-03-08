@@ -1,4 +1,3 @@
-bits 64 ; declare 64bit
 
 section.text 
   global _start ; kernelにプログラムが始まる場所を伝える
